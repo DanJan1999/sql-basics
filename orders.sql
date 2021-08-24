@@ -29,4 +29,3 @@ SELECT SUM(product_price) FROM orders;
 
 SELECT SUM(product_price) FROM orders
 WHERE person_id = 2;
-

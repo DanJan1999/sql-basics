@@ -57,4 +57,3 @@ WHERE favorite_color IN ('Orange', 'Green', 'Blue');
 
 SELECT * FROM person
 WHERE favorite_color IN ('Yellow', 'Purple');
-
